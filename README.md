@@ -2,7 +2,7 @@
 
 Welcome to my personal art gallery website, where I showcase my artistic works and creative journey.
 
-🎨 [View the Gallery](https://yourusername.github.io/repositoryname)
+🎨 [View the Gallery](https://Oneone-1988.github.io/Oneone-1988)
 
 ## About This Site
 
@@ -23,7 +23,7 @@ For inquiries about my work, please reach out:
 
 ## Visit the Gallery
 
-To view my art collection, visit [https://yourusername.github.io/repositoryname](https://yourusername.github.io/repositoryname)
+To view my art collection, visit [Oneone'ArtGallery](https://Oneone-1988.github.io/Oneone-1988)
 
 ---
 © 2025 Oneone's Art Gallery. All rights reserved.
