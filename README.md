@@ -2,7 +2,7 @@
 
 Welcome to my personal art gallery website, where I showcase my artistic works and creative journey.
 
-🎨 [View Gallery](https://oneone-1988.github.io）
+🎨 [View Gallery](https://oneone-1988.github.io)
 
 ## About This Site
 
