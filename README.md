@@ -2,7 +2,7 @@
 
 Welcome to my personal art gallery website, where I showcase my artistic works and creative journey.
 
-🎨 [View the Gallery](https://Oneone-1988.github.io/Oneone-1988)
+🎨 [View Gallery](https://oneone-1988.github.io）
 
 ## About This Site
 
@@ -12,10 +12,6 @@ This is my personal art gallery website hosted on GitHub Pages, featuring:
 - Information about my artistic journey
 - Contact information for inquiries
 
-## Preview
-
-![Website Preview](images/hero-bg.jpg)
-
 ## Contact
 
 For inquiries about my work, please reach out:
@@ -23,7 +19,7 @@ For inquiries about my work, please reach out:
 
 ## Visit the Gallery
 
-To view my art collection, visit [Oneone'ArtGallery](https://Oneone-1988.github.io/Oneone-1988)
+To view my art collection, visit [Oneone'ArtGallery](https://Oneone-1988.github.io)
 
 ---
 © 2025 Oneone's Art Gallery. All rights reserved.
